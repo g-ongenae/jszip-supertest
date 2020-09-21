@@ -1,0 +1,8 @@
+# Deps
+node_modules/
+
+# Results
+results-zip/
+results-curl/
+results-supertest-pipe/
+results-supertest-binary-parser/
